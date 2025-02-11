@@ -1,3 +1,6 @@
+import { Button } from "@/components/ui/button"
+import { Card } from "@/components/ui/card"
+
 className="border p-2 rounded"
 placeholder="Progress notes"
 value={goal.progress}
